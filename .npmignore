@@ -1,0 +1,3 @@
+# .npmignore
+# 不发布的文件或目录
+node_modules/
